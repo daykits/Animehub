@@ -6,7 +6,7 @@
 
 -- ── Load UI ──────────────────────────────────────────────
 local TayUI = loadstring(game:HttpGet(
-    "https://raw.githubusercontent.com/VTDROBLOX/Animehub/refs/heads/main/TayUI.lua", true
+    "https://raw.githubusercontent.com/daykits/Ui-banana.lua/refs/heads/main/ui%20BananaHub.lua.txt", true
 ))()
 
 -- ── Services ─────────────────────────────────────────────
